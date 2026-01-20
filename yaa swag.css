@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: white;
+	font-family: 'Courier New', monospace;
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: maroon;
+	padding: 20px;
+}
+	.paragraf_2 {
+		color:black; background-color: rgba(255,255,255,0.9);
+		}
+	.novi_blok {
+		background-color: rgba(255,255,255,0.9);
+		padding:20px;
+		margin:20px;
+		width:50%;
+	}
+h1, h2{
+	font-family:  font-family: 'Courier New', monospace;
+	color: maroon;
+}
+
+span {color: rgb(255,0,255);}
+	.pozadina{
+		background-image: url("D:/FAKS/DM/html/slike/328c77293709b5a493e8d266a62a6863.png");
+}
+	.drugapozadina {
+		background-image: url("D:/FAKS/DM/html/slike/328c77293709b5a493e8d266a62a6863.png");
+	}
+a:link {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #0D0000;
+}
+a:hover{
+	background-color: rgba(128,0,0,0.2);
+}
+img {
+	height: 200px;
+}
