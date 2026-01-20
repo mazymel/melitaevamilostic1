@@ -25,10 +25,10 @@ h1, h2{
 
 span {color: rgb(255,0,255);}
 	.pozadina{
-		background-image: url("D:/FAKS/DM/html/slike/328c77293709b5a493e8d266a62a6863.png");
+		background-image: url("328c77293709b5a493e8d266a62a6863.png");
 }
 	.drugapozadina {
-		background-image: url("D:/FAKS/DM/html/slike/328c77293709b5a493e8d266a62a6863.png");
+		background-image: url("328c77293709b5a493e8d266a62a6863.png");
 	}
 a:link {
 	color: black;
@@ -43,3 +43,4 @@ a:hover{
 img {
 	height: 200px;
 }
+
